@@ -1,6 +1,6 @@
 ## What's a NIFTY?
 
-A NIFTY (or NFTy) is a common term within the blockchain community that refers to a non-fungible token (an "NFT"). It is phonetic way to refer to an NFT. 
+A Nifty (or NFTy) is a common term within the blockchain community. A Nifty is a blockchain non-fungible token (an "NFT"). It is phonetic reference to the acronym "NFT." 
 
 ## Is the word NIFTY trademarked for use in the digital asset marketplace?
 
@@ -23,17 +23,17 @@ Based on the US trademark application case history, it appears that Dapper Labs 
 ## Canadian Trademark Application Remains Active
 Based on Canadian trademark application case history, it appears that Dapper Labs Inc. has not withdrawn its application to trademark "Nifty" in Canada. The trademark examiner's first report was issued on June 18, 2020. On February 22, 2021, notices were sent under section 37(3) of the Canadian _Trademarks Act_ to owners of similar trademarks advising them of the Dapper Labs Inc. trademark application. 
 
-The next signficant step in the Canadian trademark process will be for the Canadian Intellectual Property Office to advertise the Nifty trademark, at which point other trademark holders and members of the public can file a formal opposition to registration of Dapper Labs Inc's trademark of "Nifty". **If Dapper Labs Inc. does not withdraw its application, if no opposition is filed, or if opposition is filed without success, it can be expected that Dapper Labs Inc. will obtain a trademark "Nifty" within Canada.**
+The next significant step in the Canadian trademark process will be for the Canadian Intellectual Property Office to advertise the Nifty trademark, at which point other trademark holders and members of the public can file a formal opposition to registration of Dapper Labs Inc's trademark of "Nifty". **If Dapper Labs Inc. does not withdraw its application, if no opposition is filed, or if opposition is filed without success, it can be expected that Dapper Labs Inc. will obtain a trademark "Nifty" within Canada.**
 
-## Why is a Canadian trademark for Nifty a bad thing?
-Once a trademark for "Nifty" is granted to Dapper Labs Inc., it will need to police use of the word "Nifty" within Canada for any commercial purpose related to the categories of products and services identified. 
+## Why is trademarking NIFTY in Canada a bad thing?
+Once a trademark for "Nifty" is granted, Dapper Labs Inc. will need to police use of the word "Nifty" within Canada for any commercial purpose related to the categories of products and services identified (ie. NFTs, blockchain, digital assets, apps, etc). Dapper Labs Inc. is a dominant developer within the NFT ecosystem and it will need to enforce its presumptive statutory rights to preserve any 'Nifty' trademark - even where others have entrenched common law rights of usage. 
 
-This will have a significant impact on the NFT and blockchain communities within Canada, and for commercial NFT services in other countries that provide services in Canada (which can be difficult to limit given the decentralized nature of the underlying blockchain technology).
+This may have a significant impact on the NFT and blockchain communities within Canada, and for commercial NFT services in other countries that provide services in Canada (which can be difficult to restrict given the distributed and borderless nature of blockchain technology).
 
-## Theft of a Community Good
+## What future examiners must keep in mind
 Given the small size and technical nature of the NFT and blockchain communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the word "Nifty" is a ubiquitous term within the digital asset marketplace. It is not distinctive and is utilitarian in nature. 
 
-Granting a trademark for the word "Nifty" alone - and without further commercial context (such as the trademark registered for 'Nifty Gateway') - will a chilling effect on commercial activity within the community and result in the theft of a common good.
+Granting a trademark for the word "Nifty" alone - and without further commercial context (such as the trademark registered for 'Nifty Gateway') - may have chilling effect on lawful commercial activity within the community and result in the theft of a common good.
 
 
 
