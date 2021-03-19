@@ -35,7 +35,7 @@ Once a trademark for "Nifty" is granted, Dapper Labs Inc. will need to police us
 This may have a significant impact on the NFT and blockchain communities within Canada, and for commercial NFT services in other countries that provide services in Canada (which can be difficult to restrict given the distributed and borderless nature of blockchain technology).
 
 ## What future examiners must keep in mind
-Given the small size and technical nature of the NFT and blockchain communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the word "Nifty" is a ubiquitous term within the digital asset marketplace. It is not distinctive and is utilitarian in nature. 
+Given the small size and technical nature of the blockchain digital asset communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the word "Nifty" is a ubiquitous term within the digital asset marketplace. It is not distinctive. It is utilitarian in nature. 
 
 Granting a trademark for the word "Nifty" alone - and without further commercial context (such as the trademark registered for 'Nifty Gateway') - may have chilling effect on lawful commercial activity within the community and result in the theft of a common good.
 
