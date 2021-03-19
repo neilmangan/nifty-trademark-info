@@ -2,7 +2,7 @@
 
 A NIFTY (or NFTy) is a common term within the blockchain community that refers to a non-fungible token (an "NFT"). It is phonetic way to refer to an NFT. 
 
-## Is the word NIFTY trademarked for use in the blockchain marketplace?
+## Is the word NIFTY trademarked for use in the digital asset marketplace?
 
 In July of 2018, Dapper Labs Inc., the creator of popular **CryptoKitties** NFT project on the Ethereum blockchain, applied to the [**United States Patent and Trademark Office**](https://tsdr.uspto.gov/#caseNumber=88046182&caseType=SERIAL_NO&searchType=statusSearch) and the [**Canadian Intellectual Property Office**](http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/viewTrademark?id=1909994&tab=reg&lang=eng) to trademark the term **"NIFTY"** for use with products and services related to a variety of uses, including:
 
@@ -25,12 +25,17 @@ Based on Canadian trademark application case history, it appears that Dapper Lab
 
 The next signficant step in the Canadian trademark process will be for the Canadian Intellectual Property Office to advertise the Nifty trademark, at which point other trademark holders and members of the public can file a formal opposition to registration of Dapper Labs Inc's trademark of "Nifty". **If Dapper Labs Inc. does not withdraw its application, if no opposition is filed, or if opposition is filed without success, it can be expected that Dapper Labs Inc. will obtain a trademark "Nifty" within Canada.**
 
-**Why is a Canadian trademark for Nifty a bad thing?**
-Once a trademark for "Nifty" is granted to Dapper Labs Inc., it will need to police use of the word "Nifty" within Canada for any commercial purpose related to the categories of products and services identified. This will have a significant impact on the NFT and blockchain communities within Canada, and for commercial NFT services in other countries that provide services in Canada (which can be difficult to limit given the decentralized nature of the underlying blockchain technology).
+## Why is a Canadian trademark for Nifty a bad thing?
+Once a trademark for "Nifty" is granted to Dapper Labs Inc., it will need to police use of the word "Nifty" within Canada for any commercial purpose related to the categories of products and services identified. 
 
+This will have a significant impact on the NFT and blockchain communities within Canada, and for commercial NFT services in other countries that provide services in Canada (which can be difficult to limit given the decentralized nature of the underlying blockchain technology).
 
+## Theft of a Community Good
+Given the small size and technical nature of the NFT and blockchain communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the word "Nifty" is a ubiquitous term within the digital asset marketplace. It is not distinctive and is utilitarian in nature. 
+
+Granting a trademark for the word "Nifty" alone - and without further commercial context (such as the trademark registered for 'Nifty Gateway') - will a chilling effect on commercial activity within the community and result in the theft of a common good.
 
 
 
 _Page last updated March 19, 2021.
-Spot any errors, missing information or something out of date? Please submit suggested revisions via Github._
+Spot any errors? Missing information? Something out of date? Please submit suggested revisions via Github._
