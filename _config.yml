@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: A "Nifty" Trademark?
 description: A short history on efforts to trademark our favorite name for NFTs
+github:
+  is_project_page: false
