@@ -18,12 +18,16 @@ In August of 2018, it came to light within the NFT and blockchain communities th
 You can read more about the community's reaction on [**Yalda Mousavinia's @Medium post**](https://medium.com/@stellarmagnet/nifty-ethereums-first-trademark-battle-996c840b2583) (when you read about Dapper Labs Inc's response, keep in mind that a trademark must be policed or defended from infringement to remain valid).
 
 ## US Trademark Application Abandoned
-Based on the US trademark application case history, it appears that Dapper Labs Inc. chose not to respond to a non-final action from the USPTO examiner sent on November 14, 2018. Dapper Labs Inc.'s application to trademark the word **"Nifty"** in the United States was formally marked as abandoned for failure to respond on June 14, 2019. [See Dapper Labs Inc's US trademark application details and history on the USPTO website.](https://tsdr.uspto.gov/#caseNumber=88046182&caseType=SERIAL_NO&searchType=statusSearch)
+Based on the US trademark application case history, it appears that Dapper Labs Inc. chose not to respond to a non-final action from the USPTO examiner sent on November 14, 2018. Dapper Labs Inc.'s application to trademark the word **"Nifty"** in the United States was formally marked as abandoned for failure to respond on June 14, 2019. 
+
+[See Dapper Labs Inc's US trademark application details and history on the USPTO website.](https://tsdr.uspto.gov/#caseNumber=88046182&caseType=SERIAL_NO&searchType=statusSearch)
 
 ## Canadian Trademark Application Remains Active
 Based on Canadian trademark application case history, it appears that Dapper Labs Inc. has not withdrawn its application to trademark "Nifty" in Canada. The trademark examiner's first report was issued on June 18, 2020. On February 22, 2021, notices were sent under section 37(3) of the Canadian _Trademarks Act_ to owners of similar trademarks advising them of the Dapper Labs Inc. trademark application. 
 
 The next significant step in the Canadian trademark process will be for the Canadian Intellectual Property Office to advertise the Nifty trademark, at which point other trademark holders and members of the public can file a formal opposition to registration of Dapper Labs Inc's trademark of "Nifty". **If Dapper Labs Inc. does not withdraw its application, if no opposition is filed, or if opposition is filed without success, it can be expected that Dapper Labs Inc. will obtain a trademark "Nifty" within Canada.**
+
+[See Dapper Labs Inc's Canadian trademark application details and history on the CIPO website.](http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/viewTrademark?id=1909994&tab=reg&lang=eng)
 
 ## Why is trademarking NIFTY in Canada a bad thing?
 Once a trademark for "Nifty" is granted, Dapper Labs Inc. will need to police use of the word "Nifty" within Canada for any commercial purpose related to the categories of products and services identified (ie. NFTs, blockchain, digital assets, apps, etc). Dapper Labs Inc. is a dominant developer within the NFT ecosystem and it will need to enforce its presumptive statutory rights to preserve any 'Nifty' trademark - even where others have entrenched common law rights of usage. 
