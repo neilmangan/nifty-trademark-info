@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Why Trademarking Nifty is a Terrible Idea
+
+Looking for a sure-fire way to upset a passionate community of NFT collectors? File an application to trademark the term Nifty.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/neilmangan/nifty-trademark-info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
