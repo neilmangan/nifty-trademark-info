@@ -1,6 +1,6 @@
 ## What's a NIFTY?
 
-A Nifty (or NFTy) is a common term within the blockchain community. A Nifty is a blockchain non-fungible token (an "NFT"). It is phonetic reference to the acronym "NFT." 
+A Nifty (or NFTy) is a common term for a blockchain based non-fungible token, also called an NFT. 
 
 ## Is the word NIFTY trademarked for use in the digital asset marketplace?
 
