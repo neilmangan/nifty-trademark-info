@@ -19,12 +19,12 @@ In August of 2018, it came to light within the blockchain community that Dapper 
 
 You can read more about the community's reaction on [**Yalda Mousavinia's @Medium post**](https://medium.com/@stellarmagnet/nifty-ethereums-first-trademark-battle-996c840b2583) (when you read about Dapper Labs Inc's response, keep in mind that a trademark must be policed and defended from infringement to remain valid).
 
-## US Trademark Application Abandoned
+## US trademark application abandoned
 Based on the US trademark application case history, it appears that Dapper Labs Inc. chose not to respond to a non-final action from the USPTO examiner sent on November 14, 2018. Dapper Labs Inc.'s application to trademark the word **"Nifty"** in the United States was formally marked as abandoned for failure to respond on June 14, 2019. 
 
 [See Dapper Labs Inc's US trademark application details and history on the USPTO website.](https://tsdr.uspto.gov/#caseNumber=88046182&caseType=SERIAL_NO&searchType=statusSearch)
 
-## Canadian Trademark Application Remains Active
+## Canadian trademark application remains active
 Based on Canadian trademark application case history, it appears that Dapper Labs Inc. has not withdrawn its application to trademark "Nifty" in Canada. The trademark examiner's first report was issued on June 18, 2020. On February 22, 2021, notices were sent under section 37(3) of the Canadian _Trademarks Act_ to owners of similar trademarks advising them of the Dapper Labs Inc. trademark application. 
 
 The next significant step in the Canadian trademark process will be for the Canadian Intellectual Property Office to advertise the Nifty trademark, at which point other trademark holders and members of the public can file a formal opposition to registration of Dapper Labs Inc's trademark of "Nifty". 
@@ -38,7 +38,7 @@ Once a trademark for "Nifty" is granted, Dapper Labs Inc. will need to police us
 
 This may have a significant impact on the blockchain communities within Canada, and for commercial non-fungible token services in other countries that serve Canada. It can be difficult to restrict the use of blockchain based products and services in specific regions given the distributed and borderless nature of the technology.
 
-## What future examiners must keep in mind
+## What future trademark examiners must keep in mind
 Given the small size and technical nature of the blockchain digital asset communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the term "Nifty" is ubiquitous within the digital blockchain asset marketplace. The term "Nifty" is not distinctive. It is not associated with any single commercial entity. It is utilitarian in nature. 
 
 Granting a trademark for the term "Nifty" alone - and without further commercial context (such as the trademark registered for 'Nifty Gateway') - may harm consumers and the marketplace, have chilling effect on lawful activity and result in the theft of a common good.
