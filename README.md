@@ -1,6 +1,6 @@
 ## What's a NIFTY?
 
-A Nifty (or NFTy) is a common term for a blockchain based digital asset called a non-fungible token or NFT. 
+A Nifty (or NFTy) is a common term for unique digital assets recorded on a blockchain. These assets are popular with the blockchain art and collectible communities and can be described technically as non-fungible tokens or NFTs. 
 
 ## Is the word NIFTY trademarked for use in the digital asset marketplace?
 
@@ -13,9 +13,11 @@ In July of 2018, Dapper Labs Inc., the creator of popular **CryptoKitties** NFT 
 - software for use in accessing, reading, tracking, and using blockchain technology, cryptocurrency, digital assets, and digital apparel; 
 - software for facilitating a cryptocurrency transaction
 
-In August of 2018, it came to light within the NFT and blockchain communities that Dapper Labs Inc. had filed this trademark application. The NFT and blockchain community - which relies heavily on open source software and community contributions - was upset that Dapper Labs Inc.'s had filed and application to seize control of the word Nifty. 
+     _(the list of covered products and services is really long, review the trademark application for full details)_
 
-You can read more about the community's reaction on [**Yalda Mousavinia's @Medium post**](https://medium.com/@stellarmagnet/nifty-ethereums-first-trademark-battle-996c840b2583) (when you read about Dapper Labs Inc's response, keep in mind that a trademark must be policed or defended from infringement to remain valid).
+In August of 2018, it came to light within the blockchain community that Dapper Labs Inc. had filed a trademark application for exclusive rights to use the word "Nifty". The blockchain community - which relies heavily on open source software and community contributions - was upset that Dapper Labs Inc.'s was attempting to seize control of the word Nifty from the community that spawned it.
+
+You can read more about the community's reaction on [**Yalda Mousavinia's @Medium post**](https://medium.com/@stellarmagnet/nifty-ethereums-first-trademark-battle-996c840b2583) (when you read about Dapper Labs Inc's response, keep in mind that a trademark must be policed and defended from infringement to remain valid).
 
 ## US Trademark Application Abandoned
 Based on the US trademark application case history, it appears that Dapper Labs Inc. chose not to respond to a non-final action from the USPTO examiner sent on November 14, 2018. Dapper Labs Inc.'s application to trademark the word **"Nifty"** in the United States was formally marked as abandoned for failure to respond on June 14, 2019. 
