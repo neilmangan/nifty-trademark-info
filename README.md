@@ -1,6 +1,6 @@
 ## What's a NIFTY?
 
-A Nifty (or NFTy) is a common term for unique digital assets recorded on a blockchain. These assets are popular in the blockchain art and collectible communities, and can be described technically as non-fungible tokens or NFTs. 
+A Nifty (or NFTy) is a common term for unique digital assets recorded on blockchains. These assets are popular in the blockchain art and collectible communities, and can be described technically as non-fungible tokens or NFTs. 
 
 ## Is the word NIFTY trademarked for use in the digital asset marketplace?
 
@@ -27,7 +27,9 @@ Based on the US trademark application case history, it appears that Dapper Labs 
 ## Canadian Trademark Application Remains Active
 Based on Canadian trademark application case history, it appears that Dapper Labs Inc. has not withdrawn its application to trademark "Nifty" in Canada. The trademark examiner's first report was issued on June 18, 2020. On February 22, 2021, notices were sent under section 37(3) of the Canadian _Trademarks Act_ to owners of similar trademarks advising them of the Dapper Labs Inc. trademark application. 
 
-The next significant step in the Canadian trademark process will be for the Canadian Intellectual Property Office to advertise the Nifty trademark, at which point other trademark holders and members of the public can file a formal opposition to registration of Dapper Labs Inc's trademark of "Nifty". **If Dapper Labs Inc. does not withdraw its application, if no opposition is filed, or if opposition is filed without success, it can be expected that Dapper Labs Inc. will obtain a trademark "Nifty" within Canada.**
+The next significant step in the Canadian trademark process will be for the Canadian Intellectual Property Office to advertise the Nifty trademark, at which point other trademark holders and members of the public can file a formal opposition to registration of Dapper Labs Inc's trademark of "Nifty". 
+
+**If Dapper Labs Inc. does not withdraw its application, if no opposition is filed, or if opposition is filed without success, it can be expected that Dapper Labs Inc. will obtain a trademark "Nifty" within Canada.**
 
 [See Dapper Labs Inc's Canadian trademark application details and history on the CIPO website.](http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/viewTrademark?id=1909994&tab=reg&lang=eng)
 
@@ -37,7 +39,7 @@ Once a trademark for "Nifty" is granted, Dapper Labs Inc. will need to police us
 This may have a significant impact on the NFT and blockchain communities within Canada, and for commercial NFT services in other countries that provide services in Canada (which can be difficult to restrict given the distributed and borderless nature of blockchain technology).
 
 ## What future examiners must keep in mind
-Given the small size and technical nature of the blockchain digital asset communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the word "Nifty" is a ubiquitous term within the digital asset marketplace. It is not distinctive. It is utilitarian in nature. 
+Given the small size and technical nature of the blockchain digital asset communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the word "Nifty" is a ubiquitous term within the digital asset marketplace. The word "Nifty" is not distinctive and is not associated with a single commercial entity within the marketplace. It is utilitarian in nature. 
 
 Granting a trademark for the word "Nifty" alone - and without further commercial context (such as the trademark registered for 'Nifty Gateway') - may have chilling effect on lawful commercial activity within the community and result in the theft of a common good.
 
