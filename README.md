@@ -29,7 +29,7 @@ Based on Canadian trademark application case history, it appears that Dapper Lab
 
 The next significant step in the Canadian trademark process will be for the Canadian Intellectual Property Office to advertise the Nifty trademark, at which point other trademark holders and members of the public can file a formal opposition to registration of Dapper Labs Inc's trademark of "Nifty". 
 
-**If Dapper Labs Inc. does not withdraw its application, if no opposition is filed, or if opposition is filed without success, it can be expected that Dapper Labs Inc. will obtain a trademark "Nifty" within Canada.**
+**If Dapper Labs Inc. does not withdraw its application, if no opposition is filed, or if opposition is filed without success, it can be expected that Dapper Labs Inc. will obtain a trademark for the term "Nifty" within Canada.**
 
 [See Dapper Labs Inc's Canadian trademark application details and history on the CIPO website.](http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/viewTrademark?id=1909994&tab=reg&lang=eng)
 
