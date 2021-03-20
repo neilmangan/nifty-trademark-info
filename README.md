@@ -2,9 +2,9 @@
 
 A Nifty (or NFTy) is a common term for unique digital assets recorded on blockchains. These assets are popular in the blockchain art and collectible communities, and can be described technically as non-fungible tokens or NFTs. 
 
-## Is the word NIFTY trademarked for use in the digital asset marketplace?
+## Is the term NIFTY trademarked for use in the digital asset marketplace?
 
-In July of 2018, Dapper Labs Inc., the creator of popular **CryptoKitties** NFT project on the Ethereum blockchain, applied to the [**United States Patent and Trademark Office**](https://tsdr.uspto.gov/#caseNumber=88046182&caseType=SERIAL_NO&searchType=statusSearch) and the [**Canadian Intellectual Property Office**](http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/viewTrademark?id=1909994&tab=reg&lang=eng) to trademark the term **"NIFTY"** for use with products and services related to a variety of uses, including:
+In July of 2018, **Dapper Labs Inc.**, the creator of popular **CryptoKitties** NFT project on the Ethereum blockchain, applied to the [**United States Patent and Trademark Office**](https://tsdr.uspto.gov/#caseNumber=88046182&caseType=SERIAL_NO&searchType=statusSearch) and the [**Canadian Intellectual Property Office**](http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/viewTrademark?id=1909994&tab=reg&lang=eng) to trademark the term **"NIFTY"** for use with products and services related to a variety of electronic uses, including:
 
 - downloadable computer software to enable consumers and businesses to interact with other software, digital assets, digital apparel, cryptocurrency, online services, and databases; 
 - computer application software for mobile phones, portable media players, and computers that is used to enable users to hold cryptocurrency via electronic wallets; 
@@ -15,7 +15,7 @@ In July of 2018, Dapper Labs Inc., the creator of popular **CryptoKitties** NFT 
 
      _(the list of covered products and services is really long, review the trademark application for full details)_
 
-In August of 2018, it came to light within the blockchain community that Dapper Labs Inc. had filed a trademark application for exclusive rights to use the word "Nifty". The blockchain community - which relies heavily on open source software and community contributions - was upset that Dapper Labs Inc.'s was attempting to seize control of the word Nifty from the community that spawned it.
+In August of 2018, it came to light within the blockchain community that Dapper Labs Inc. had filed a trademark application for exclusive rights to use the term "Nifty". The blockchain community - which relies heavily on open-source software and community contributions - was upset that Dapper Labs Inc.'s was attempting to seize control of the term Nifty from the open-source community that spawned it.
 
 You can read more about the community's reaction on [**Yalda Mousavinia's @Medium post**](https://medium.com/@stellarmagnet/nifty-ethereums-first-trademark-battle-996c840b2583) (when you read about Dapper Labs Inc's response, keep in mind that a trademark must be policed and defended from infringement to remain valid).
 
@@ -34,14 +34,14 @@ The next significant step in the Canadian trademark process will be for the Cana
 [See Dapper Labs Inc's Canadian trademark application details and history on the CIPO website.](http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/viewTrademark?id=1909994&tab=reg&lang=eng)
 
 ## Why is trademarking NIFTY in Canada a bad thing?
-Once a trademark for "Nifty" is granted, Dapper Labs Inc. will need to police use of the word "Nifty" within Canada for any commercial purpose related to the categories of products and services identified (ie. NFTs, blockchain, digital assets, apps, etc). Dapper Labs Inc. is a dominant developer within the NFT ecosystem and it will need to enforce its presumptive statutory rights to preserve any 'Nifty' trademark - even where others have entrenched common law rights of usage. 
+Once a trademark for "Nifty" is granted, Dapper Labs Inc. will need to police use of the term "Nifty" within Canada for any commercial purpose related to the categories of products and services identified (ie. NFTs, blockchain, digital assets, apps, etc). Dapper Labs Inc. is a dominant developer within the blockchain ecosystem and it will need to enforce its presumptive statutory rights to preserve any 'Nifty' trademark - even where others have entrenched common law rights of usage. 
 
-This may have a significant impact on the NFT and blockchain communities within Canada, and for commercial NFT services in other countries that provide services in Canada (which can be difficult to restrict given the distributed and borderless nature of blockchain technology).
+This may have a significant impact on the blockchain communities within Canada, and for commercial non-fungible token services in other countries that serve Canada. It can be difficult to restrict the use of blockchain based products and services in specific regions given the distributed and borderless nature of the technology.
 
 ## What future examiners must keep in mind
-Given the small size and technical nature of the blockchain digital asset communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the word "Nifty" is a ubiquitous term within the digital asset marketplace. The word "Nifty" is not distinctive and is not associated with a single commercial entity within the marketplace. It is utilitarian in nature. 
+Given the small size and technical nature of the blockchain digital asset communities, there is a real risk that trademark examiners in Canada, the United States and other jurisdictions will fail to understand that the term "Nifty" is ubiquitous within the digital blockchain asset marketplace. The term "Nifty" is not distinctive. It is not associated with any single commercial entity. It is utilitarian in nature. 
 
-Granting a trademark for the word "Nifty" alone - and without further commercial context (such as the trademark registered for 'Nifty Gateway') - may have chilling effect on lawful commercial activity within the community and result in the theft of a common good.
+Granting a trademark for the term "Nifty" alone - and without further commercial context (such as the trademark registered for 'Nifty Gateway') - may harm consumers and the marketplace, have chilling effect on lawful activity and result in the theft of a common good.
 
 
 
